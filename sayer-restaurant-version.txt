@@ -1,3 +1,3 @@
-v2.0.0
+2.0.0
 sayer-restaurant
 https://discord.gg/3WYz3zaqG5
